@@ -70,6 +70,7 @@ def main():
                         file_results.append(ip)
                     else:
                         terminal_results.append(f"{domain}: Invalid domain")
+                        file_results.append("Invalid Domain")
         except Exception as e:
             print(f"{RED}[Error] Tidak dapat membaca file: {e}{RESET}")
             sys.exit(1)
@@ -82,6 +83,7 @@ def main():
             file_results.append(ip)
         else:
             terminal_results.append(f"{domain}: Invalid domain")
+            file_results.append("Invalid Domain")
 
     # Output ke terminal
     print("\nHasil:")
