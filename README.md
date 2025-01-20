@@ -13,8 +13,8 @@
 
 1. **Clone Repositori**
    ```bash
-   git clone https://github.com/<username>/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/FathanFirmansyah/check_ip.git
+   cd check_ip
    ```
 2. **Berikan Izin Eksekusi**
    ```bash
