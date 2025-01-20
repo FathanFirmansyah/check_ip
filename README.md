@@ -1,6 +1,6 @@
-# Check IP Domain by SOC
+# Check IP Domain 
 
-**Check IP Domain by SOC** adalah alat sederhana berbasis Python untuk melakukan resolusi domain ke alamat IP. Alat ini dirancang untuk menampilkan hasil di terminal atau menyimpannya ke file. Cocok untuk keperluan monitoring, analisis jaringan, atau pengujian di lingkungan keamanan seperti Kali Linux.
+**Check IP Domain ** adalah alat sederhana berbasis Python untuk melakukan resolusi domain ke alamat IP. Alat ini dirancang untuk menampilkan hasil di terminal atau menyimpannya ke file. Cocok untuk keperluan monitoring, analisis jaringan, atau pengujian di lingkungan keamanan seperti Kali Linux.
 
 ## Fitur
 
@@ -48,7 +48,7 @@
 - Di Terminal
 ```bash
 ==================================================
-             Check IP Domain by SOC              
+             Check IP Domain               
 ==================================================
 
 Hasil:
