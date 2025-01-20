@@ -13,7 +13,7 @@ RESET = "\033[0m"
 # Header
 def print_header():
     print(f"{GREEN}{'=' * 50}")
-    print(f"{'Check IP Domain by SOC'.center(50)}")
+    print(f"{'Check IP Domain'.center(50)}")
     print(f"{'=' * 50}{RESET}")
 
 # Fungsi untuk mendapatkan IP dari domain
